@@ -4,14 +4,14 @@ This file contains curated lists of machine learning terms which the ML enthusia
 The terms are 
 
 ## 1. Supervised Learning
-![alt tag](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educba.com%2Fwhat-is-supervised-learning%2F&psig=AOvVaw0VIrJ2Num1GHVhLTY9tAZL&ust=1601193967910000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPja29iuhuwCFQAAAAAdAAAAABAD)
+![alt tag](https://cdn.educba.com/academy/wp-content/uploads/2019/08/What-is-supervised-learning.jpg)
 It is something like,
 1. You get a bunch of photos with information about what is on them and then you train a model to recognize new photos.
 2. You have a bunch of molecules and information about which are drugs and you train a model to answer whether a new molecule is also a drug.
 
 
 ## 2. Unsupervised learning
-![alt tag](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Fdifference-between-supervised-and-unsupervised-learning&psig=AOvVaw1CleLHOAPrzz6uGxWlPA-y&ust=1601194057530000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiYkf-uhuwCFQAAAAAdAAAAABAJ)
+![alt tag](https://static.javatpoint.com/tutorial/machine-learning/images/difference-between-supervised-and-unsupervised-learning.jpg)
 You have a bunch of photos of 6 people but without information about who is on which one and you want to divide this dataset into 6 piles, each with the photos of one individual.
 You have molecules, part of them are drugs and part are not but you do not know which are which and you want the algorithm to discover the drugs.
 
