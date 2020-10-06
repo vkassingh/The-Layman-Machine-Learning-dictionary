@@ -62,6 +62,13 @@ SOURCE: https://blog.bismart.com/en/classification-vs.-clustering-a-practical-ex
 
 ## 9. Neural Networks
 ## 10. Linear Regression
+Linear Regression algorithm will use the data points to find the best fit line to model the data. A line can be represented by the equation, **y = m*x + c** where **y** is the dependent variable and **x** is the independent variable. Basic calculus theories are applied to find the values for **m** and **c** using the given data set.
+Linear Regression has 2 types as **Simple Linear Regression** where only 1 independent variable is used and **Multiple Linear Regression** where multiple independent variables are defined.
+
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/400px-Linear_regression.svg.png)
+
+Learn more [here](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm)
+
 ## 11. Logistic Regression
 ## 12. PolynomialRegression
 
