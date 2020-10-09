@@ -61,6 +61,9 @@ SOURCE: https://blog.bismart.com/en/classification-vs.-clustering-a-practical-ex
 
 
 ## 9. Neural Networks
+![alt tag](https://miro.medium.com/max/1166/1*DW0Ccmj1hZ0OvSXi7Kz5MQ.jpeg)
+A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. Neural networks can adapt to changing input; so the network generates the best possible result without needing to redesign the output criteria.
+
 ## 10. Linear Regression
 Linear Regression algorithm will use the data points to find the best fit line to model the data. A line can be represented by the equation, **y = m*x + c** where **y** is the dependent variable and **x** is the independent variable. Basic calculus theories are applied to find the values for **m** and **c** using the given data set.
 Linear Regression has 2 types as **Simple Linear Regression** where only 1 independent variable is used and **Multiple Linear Regression** where multiple independent variables are defined.
