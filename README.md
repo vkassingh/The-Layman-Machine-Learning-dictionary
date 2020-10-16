@@ -1,3 +1,7 @@
+Read this document carefully
+
+
+
 # Machine-Learning-Dictionary
 
 This file contains curated lists of machine learning terms which the ML enthusiasts find difficult in understanding.
