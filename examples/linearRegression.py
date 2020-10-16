@@ -18,17 +18,17 @@ def costFunction(X,y,theta):
   return J,grad
 
 # Dataset
-x = np.matrix('1 0;1 1;1 2;1 3;1 4;1 5')
-y = np.matrix('0;0;0;1;1;1')
+x = np.matrix('1 0;1 100;1 200;1 300;1 400;1 500')
+y = np.matrix('0;1;2;3;4;5')
 '''
 X     Y
 --------
 0     0
-1     0
-2     0
-3     1
-4     1
-5     1
+100   1
+200   2
+300   3
+400   4
+500   5
 '''
 # Learning rate
 alpha = .3
@@ -54,7 +54,7 @@ def gradientDescent(iterations,x,y):
 # Predicting function
 def predict(x,theta):
   X = np.matrix(f'1 {x}')
-  return round(float(sigmoid(X*theta.T)))
+  return round(float(X*theta.T))
 
 
 #================================================#
