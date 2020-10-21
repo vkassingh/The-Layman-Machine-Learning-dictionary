@@ -54,17 +54,14 @@ CLUSTERING vs CLASSIFICATION
 SOURCE: https://blog.bismart.com/en/classification-vs.-clustering-a-practical-explanation
 
 
-## 7. Support Vector Machine
+## 7. Baysian Network
 
 
-## 8. Baysian Network
-
-
-## 9. Neural Networks
+## 8. Neural Networks
 ![alt tag](https://miro.medium.com/max/1166/1*DW0Ccmj1hZ0OvSXi7Kz5MQ.jpeg)
 A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. Neural networks can adapt to changing input; so the network generates the best possible result without needing to redesign the output criteria.
 
-## 10. Linear Regression
+## 9. Linear Regression
 Linear Regression algorithm will use the data points to find the best fit line to model the data. A line can be represented by the equation, **y = m*x + c** where **y** is the dependent variable and **x** is the independent variable. Basic calculus theories are applied to find the values for **m** and **c** using the given data set.
 Linear Regression has 2 types as **Simple Linear Regression** where only 1 independent variable is used and **Multiple Linear Regression** where multiple independent variables are defined.
 
@@ -72,6 +69,13 @@ Linear Regression has 2 types as **Simple Linear Regression** where only 1 indep
 
 Learn more [here](http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm)
 
-## 11. Logistic Regression
-## 12. PolynomialRegression
+## 10. PolynomialRegression
+Polynomial regression is generally studied after clearing the concepts of Linear Regression. Now, as we know that liner regression is effective when there is a linear relationship between the features but most of the times this condition does not hold true so instead a Polynomial regression model is used. Here the main advantage of using the polynomial regression algorithm is that it provides the best aproximate relationship in between the dependent and the independent varibale and the main disadvantage is that one or two outliers in the data can seriously affect the results of the nonlinear analysis.
 
+## 11. Logistic Regression
+It is a type of model that is basically used to produce binary output. In this model a logistic function is used to model a binary dependent variable but this is just the most basic type and many more complex models do exist. Surprisingly enough despite having "regression" in it's name Logistic regression can not be used for regression type problems can be used only for performing classification tasks or in technincal terms it is used to predict categorical variables and not the continuous dependent variables. Although it is a binary classifier it is also used for multi class calssification as, let us consider an example where we have 4 categorical variables then we will first see if the first data point is classified as 1st or not if it is not then it is checked for the second categorical variable and so on till we get the correct class that the data point belongs to it is somewhat similar to the if-else condition. 
+** For getting a deeper insight reffer to the link provided: https://en.wikipedia.org/wiki/Linear_regression **
+
+## 12. Support Vector Machine
+This algorithm is mainly studied after clearing the concepts of Linear and Logistic Regression, it is highly preferred by many as it produces significant accuracy with less computation power. It can be used for both classification and regression task but it is widely used in classification tasks. The objective of SVM algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points. In 2 dimensional space the seperating medium is a line and in 3 dimensional space the seperating medium is a plane and for more than 3 dimensions we call it a hyperplane. It works bets on small datasets with high dimensionality.
+** For deeper insight please reffer to the link provided: https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
