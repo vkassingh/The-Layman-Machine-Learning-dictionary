@@ -25,7 +25,7 @@ def minimax(state, depth, player):
         state[x][y] = 0
         score[0], score[1] = x, y
 
-        if player == COMP:
+        if player == COMPUTER:
             if score[2] > best[2]:
                 best = score
         else:
