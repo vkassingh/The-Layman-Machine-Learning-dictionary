@@ -79,3 +79,10 @@ It is a type of model that is basically used to produce binary output. In this m
 ## 12. Support Vector Machine
 This algorithm is mainly studied after clearing the concepts of Linear and Logistic Regression, it is highly preferred by many as it produces significant accuracy with less computation power. It can be used for both classification and regression task but it is widely used in classification tasks. The objective of SVM algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points. In 2 dimensional space the seperating medium is a line and in 3 dimensional space the seperating medium is a plane and for more than 3 dimensions we call it a hyperplane. It works bets on small datasets with high dimensionality.
 ** For deeper insight please reffer to the link provided: https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+
+## 13.Deep Learning
+Deep learning is similar to machine learning—in fact, it’s more of an application of machine learning that imitates the workings of the human brain. Deep learning networks interpret big data (data that is too large to fit on a single computer)—both unstructured and structured—and recognize patterns. The more data they can “learn” from, the more informed and accurate their decisions will be. Here are some examples of deep learning in practice:
+-Chatbots and virtual assistants: Virtual assistants like Alexa and Siri or customer service chatbots on different web pages can receive human requests, decipher language, and present lifelike responses.
+-Real-time bidding and programmatic advertising: Advertising now depends on software buying advertising space through a competitive bidding process. Cognitiv AI is an example of a deep learning platform that synthesizes data on customer demographics, weather, available inventory, time of day, and other variables to create custom buying algorithms for a specific target market.
+
+SOURCE: https://www.springboard.com/blog/data-science/machine-learning-terminology/
